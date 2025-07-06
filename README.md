@@ -1,4 +1,4 @@
-# 🤖 RIGGU Control Interface | RIG Induction Project
+# 🤖 RIGGU Control Interface(Semi Humanoid Robot)
 
 ---
 
